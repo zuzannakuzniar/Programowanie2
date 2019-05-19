@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3f1fe3-7218-48f4-b945-241a79139d4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programowanie2Darek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day1/LazySingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day1/LazySingleton_v2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Day1/LazySingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Day1/LazySingleton_v2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Day1/LazySingleton_v2$LazyHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Day1/LazySingleton_v2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Day1/LazySingletonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Day1/LazySingleton_v2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,43 +14,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day1/ZłotówkaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Day1/Złotówka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,6 +37,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Day1/ZłotówkaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day1/Złotówka.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day1/FizzBuzzTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day1/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day1/threads/Zad1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day1/threads/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day1/threads/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day1/threads/ThreadPlaygroundRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day1/threads/App4.java" />
       </list>
     </option>
   </component>
@@ -132,20 +93,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="aplikacja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programowanie2Darek" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aplikacja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programowanie2Darek" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -153,7 +100,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558176743135" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558187451201" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -169,6 +116,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Day1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,8 +132,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ZłotówkaTest.test_Subtraction">
-    <configuration name="LazySingleton_v2Test.getInstance_true" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.App3">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.threads.App" />
+      <module name="Programowanie2Darek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day1.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.threads.App2" />
+      <module name="Programowanie2Darek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day1.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.threads.App3" />
+      <module name="Programowanie2Darek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day1.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.returnNumber_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie2Darek" />
       <extension name="coverage">
         <pattern>
@@ -192,14 +181,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day1" />
-      <option name="MAIN_CLASS_NAME" value="Day1.LazySingleton_v2Test" />
-      <option name="METHOD_NAME" value="getInstance_true" />
+      <option name="MAIN_CLASS_NAME" value="Day1.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="returnNumber_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZłotówkaTest.test2_Equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.test_checkDuration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie2Darek" />
       <extension name="coverage">
         <pattern>
@@ -208,56 +197,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day1" />
-      <option name="MAIN_CLASS_NAME" value="Day1.ZłotówkaTest" />
-      <option name="METHOD_NAME" value="test2_Equals" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZłotówkaTest.test_Equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie2Darek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day1" />
-      <option name="MAIN_CLASS_NAME" value="Day1.ZłotówkaTest" />
-      <option name="METHOD_NAME" value="test_Equals" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZłotówkaTest.test_Subtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie2Darek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day1" />
-      <option name="MAIN_CLASS_NAME" value="Day1.ZłotówkaTest" />
-      <option name="METHOD_NAME" value="test_Subtraction" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZłotówkaTest.test_ToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie2Darek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day1" />
-      <option name="MAIN_CLASS_NAME" value="Day1.ZłotówkaTest" />
-      <option name="METHOD_NAME" value="test_ToString" />
+      <option name="MAIN_CLASS_NAME" value="Day1.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="test_checkDuration" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -265,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ZłotówkaTest.test_Subtraction" />
-        <item itemvalue="JUnit.ZłotówkaTest.test2_Equals" />
-        <item itemvalue="JUnit.ZłotówkaTest.test_Equals" />
-        <item itemvalue="JUnit.ZłotówkaTest.test_ToString" />
-        <item itemvalue="JUnit.LazySingleton_v2Test.getInstance_true" />
+        <item itemvalue="Application.App3" />
+        <item itemvalue="Application.App2" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.FizzBuzzTest.test_checkDuration" />
+        <item itemvalue="JUnit.FizzBuzzTest.returnNumber_test" />
       </list>
     </recent_temporary>
   </component>
@@ -287,54 +228,53 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ZłotówkaTest_test2_Equals - 2019.05.18 at 11h 59m 11s.xml">
-      <configuration name="ZłotówkaTest.test2_Equals" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_returnNumber_test - 2019.05.18 at 13h 35m 59s.xml">
+      <configuration name="FizzBuzzTest.returnNumber_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 05m 46s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_returnNumber_test - 2019.05.18 at 13h 37m 04s.xml">
+      <configuration name="FizzBuzzTest.returnNumber_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 10m 06s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 46m 10s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 13m 12s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 47m 02s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 14m 28s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 47m 33s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 21m 39s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 48m 00s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 21m 56s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 51m 22s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 26m 08s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 51m 35s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 26m 25s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 52m 03s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZłotówkaTest_test_Subtraction - 2019.05.18 at 12h 41m 45s.xml">
-      <configuration name="ZłotówkaTest.test_Subtraction" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_test_checkDuration - 2019.05.18 at 13h 52m 15s.xml">
+      <configuration name="FizzBuzzTest.test_checkDuration" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18926175" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18926175" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -348,7 +288,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="PlantUML" order="7" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -356,14 +296,14 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18926175" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18926175" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -377,8 +317,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="PlantUML" order="7" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
     </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Day1/LazySingleton.java">
@@ -420,6 +364,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day1/ZłotówkaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day1/Złotówka.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -435,13 +389,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day1/ZłotówkaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day1/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
+        <state relative-caret-position="236">
+          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/ThreadPlaygroundRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/App4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
