@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3f1fe3-7218-48f4-b945-241a79139d4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day2/QueueSDATest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day2/QueueSDATest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,29 +16,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day2/QueueSDATest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Serialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="68" column="55" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
+            <state relative-caret-position="144">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+            <state relative-caret-position="236">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding>
-                <element signature="e#1286#1287#0" expanded="true" />
-                <element signature="e#1322#1323#0" expanded="true" />
-                <element signature="e#1436#1437#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,7 +54,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -74,6 +83,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Day2/NoItemsInQueueException.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day2/QueueSDATest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day3/FindWord.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day3/FindWordTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day3/Calss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day3/Directions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day3/Coordinates.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day3/Points.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day3/SearchingSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day3/SearchingSolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day4/Adress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day4/Serialization.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java" />
       </list>
     </option>
   </component>
@@ -83,6 +103,17 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aplikacja" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="365" />
@@ -96,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,26 +159,31 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2" type="462c0819:PsiDirectoryNode" />
+              <item name="Day4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558261345509" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559474641604" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Day4" />
+      <recent name="Day3" />
       <recent name="Day2" />
       <recent name="Day1" />
     </key>
@@ -156,6 +191,7 @@
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Day4" />
       <recent name="Day1" />
     </key>
   </component>
@@ -171,82 +207,77 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.QueueSDATest.getQueueTest">
-    <configuration name="QueueSDATest.checkNextItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SerializationTest.serialisedAndDeserialisedObjectShouldEqual">
+    <configuration name="Calss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Calss" />
       <module name="Programowanie2Darek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.QueueSDATest" />
-      <option name="METHOD_NAME" value="checkNextItem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchingSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie2Darek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.SearchingSolutionTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchingSolutionTest.shouldFindOneChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie2Darek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.SearchingSolutionTest" />
+      <option name="METHOD_NAME" value="shouldFindOneChar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueSDATest.exceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchingSolutionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie2Darek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.QueueSDATest" />
-      <option name="METHOD_NAME" value="exceptionTest" />
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.SearchingSolutionTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueSDATest.getQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SerializationTest.serialisedAndDeserialisedObjectShouldEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie2Darek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.QueueSDATest" />
-      <option name="METHOD_NAME" value="getQueueTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueSDATest.queueSizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie2Darek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.QueueSDATest" />
-      <option name="METHOD_NAME" value="queueSizeTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueSDATest.stringAddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie2Darek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.QueueSDATest" />
-      <option name="METHOD_NAME" value="stringAddTest" />
+      <option name="PACKAGE_NAME" value="Day4" />
+      <option name="MAIN_CLASS_NAME" value="Day4.SerializationTest" />
+      <option name="METHOD_NAME" value="serialisedAndDeserialisedObjectShouldEqual" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -254,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.QueueSDATest.getQueueTest" />
-        <item itemvalue="JUnit.QueueSDATest.queueSizeTest" />
-        <item itemvalue="JUnit.QueueSDATest.checkNextItem" />
-        <item itemvalue="JUnit.QueueSDATest.exceptionTest" />
-        <item itemvalue="JUnit.QueueSDATest.stringAddTest" />
+        <item itemvalue="JUnit.SerializationTest.serialisedAndDeserialisedObjectShouldEqual" />
+        <item itemvalue="Application.Calss" />
+        <item itemvalue="JUnit.SearchingSolutionTest" />
+        <item itemvalue="JUnit.SearchingSolutionTest.shouldFindOneChar" />
+        <item itemvalue="JUnit.SearchingSolutionTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -276,35 +307,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="QueueSDATest_stringAddTest - 2019.05.19 at 11h 10m 32s.xml">
-      <configuration name="QueueSDATest.stringAddTest" configurationId="JUnit" />
+    <history-entry file="FindWordTest_test1 - 2019.06.01 at 11h 38m 49s.xml">
+      <configuration name="FindWordTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_exceptionTest - 2019.05.19 at 11h 18m 18s.xml">
-      <configuration name="QueueSDATest.exceptionTest" configurationId="JUnit" />
+    <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 39m 04s.xml">
+      <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_checkNextItem - 2019.05.19 at 11h 20m 47s.xml">
-      <configuration name="QueueSDATest.checkNextItem" configurationId="JUnit" />
+    <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 39m 22s.xml">
+      <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_checkNextItem - 2019.05.19 at 11h 21m 08s.xml">
-      <configuration name="QueueSDATest.checkNextItem" configurationId="JUnit" />
+    <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 46m 38s.xml">
+      <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_queueSizeTest - 2019.05.19 at 11h 22m 32s.xml">
-      <configuration name="QueueSDATest.queueSizeTest" configurationId="JUnit" />
+    <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 47m 39s.xml">
+      <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_getQueueTest - 2019.05.19 at 11h 24m 40s.xml">
-      <configuration name="QueueSDATest.getQueueTest" configurationId="JUnit" />
+    <history-entry file="SearchingSolutionTest_shouldFindOneChar - 2019.06.01 at 11h 48m 16s.xml">
+      <configuration name="SearchingSolutionTest.shouldFindOneChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_getQueueTest - 2019.05.19 at 11h 27m 04s.xml">
-      <configuration name="QueueSDATest.getQueueTest" configurationId="JUnit" />
+    <history-entry file="SearchingSolutionTest_shouldFindOneChar - 2019.06.01 at 11h 49m 52s.xml">
+      <configuration name="SearchingSolutionTest.shouldFindOneChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_getQueueTest - 2019.05.19 at 11h 47m 04s.xml">
-      <configuration name="QueueSDATest.getQueueTest" configurationId="JUnit" />
+    <history-entry file="SearchingSolutionTest - 2019.06.01 at 12h 59m 43s.xml">
+      <configuration name="SearchingSolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_getQueueTest - 2019.05.19 at 11h 47m 32s.xml">
-      <configuration name="QueueSDATest.getQueueTest" configurationId="JUnit" />
+    <history-entry file="SearchingSolutionTest - 2019.06.01 at 14h 15m 54s.xml">
+      <configuration name="SearchingSolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueSDATest_getQueueTest - 2019.05.19 at 11h 47m 46s.xml">
-      <configuration name="QueueSDATest.getQueueTest" configurationId="JUnit" />
+    <history-entry file="SearchingSolutionTest - 2019.06.01 at 15h 43m 13s.xml">
+      <configuration name="SearchingSolutionTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -325,14 +356,14 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18926175" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21006711" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -344,7 +375,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
       <window_info anchor="right" id="PlantUML" order="7" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
     </layout>
@@ -415,34 +446,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day1/ZłotówkaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/Złotówka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -470,35 +479,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day1/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
             <element signature="e#600#601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/ThreadPlaygroundRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -506,36 +504,258 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/App4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/threads/ThreadPlaygroundRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day2/NoItemsInQueueException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day1/Złotówka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        <state relative-caret-position="459">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
-            <element signature="e#1286#1287#0" expanded="true" />
-            <element signature="e#1322#1323#0" expanded="true" />
-            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day2/QueueSDATest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="68" column="55" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
+        <state relative-caret-position="412">
+          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
             <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day3/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="1266" column="12" lean-forward="true" selection-start-line="1266" selection-start-column="12" selection-end-line="1266" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day3/Calss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day3/Directions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="163" column="1" selection-start-line="163" selection-start-column="1" selection-end-line="163" selection-end-column="1" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+            <element signature="e#1396#1397#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
+            <element signature="e#1706#1707#0" expanded="true" />
+            <element signature="e#1755#1756#0" expanded="true" />
+            <element signature="e#1800#1801#0" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1914#1915#0" expanded="true" />
+            <element signature="e#1978#1979#0" expanded="true" />
+            <element signature="e#2041#2042#0" expanded="true" />
+            <element signature="e#2103#2104#0" expanded="true" />
+            <element signature="e#2194#2195#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2291#2292#0" expanded="true" />
+            <element signature="e#2342#2343#0" expanded="true" />
+            <element signature="e#2405#2406#0" expanded="true" />
+            <element signature="e#2469#2470#0" expanded="true" />
+            <element signature="e#2532#2533#0" expanded="true" />
+            <element signature="e#2597#2598#0" expanded="true" />
+            <element signature="e#2684#2685#0" expanded="true" />
+            <element signature="e#2733#2734#0" expanded="true" />
+            <element signature="e#2778#2779#0" expanded="true" />
+            <element signature="e#2828#2829#0" expanded="true" />
+            <element signature="e#2891#2892#0" expanded="true" />
+            <element signature="e#2954#2955#0" expanded="true" />
+            <element signature="e#3017#3018#0" expanded="true" />
+            <element signature="e#3079#3080#0" expanded="true" />
+            <element signature="e#3169#3170#0" expanded="true" />
+            <element signature="e#3221#3222#0" expanded="true" />
+            <element signature="e#3266#3267#0" expanded="true" />
+            <element signature="e#3316#3317#0" expanded="true" />
+            <element signature="e#3379#3380#0" expanded="true" />
+            <element signature="e#3442#3443#0" expanded="true" />
+            <element signature="e#3505#3506#0" expanded="true" />
+            <element signature="e#3570#3571#0" expanded="true" />
+            <element signature="e#3618#3619#0" expanded="true" />
+            <element signature="e#3665#3666#0" expanded="true" />
+            <element signature="e#3706#3707#0" expanded="true" />
+            <element signature="e#3753#3754#0" expanded="true" />
+            <element signature="e#3812#3813#0" expanded="true" />
+            <element signature="e#3859#3860#0" expanded="true" />
+            <element signature="e#3918#3919#0" expanded="true" />
+            <element signature="e#3965#3966#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day3/Coordinates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day3/Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day3/SearchingSolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day3/SearchingSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Adress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Serialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

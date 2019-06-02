@@ -79,6 +79,6 @@ public class QueueSDA <E> {
 
             }
         } elements += " ]";
-        return (E) String.format("Size: %d, elements: %s",this.size, elements);
+        return String.format("Size: %d, elements: %s",this.size, elements);
     }
 }
