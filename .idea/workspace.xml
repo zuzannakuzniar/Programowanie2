@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3f1fe3-7218-48f4-b945-241a79139d4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day2/QueueSDA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day2/QueueSDATest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day2/QueueSDATest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day4/Serialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day4/Serialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,33 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Serialization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Jsons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -55,8 +31,8 @@
       <list>
         <option value="JUnit4 Test Class" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,8 +68,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Day3/SearchingSolution.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day3/SearchingSolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day4/Adress.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Day4/Serialization.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day4/Serialization.java" />
       </list>
     </option>
   </component>
@@ -169,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559474641604" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559480556412" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -307,18 +283,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindWordTest_test1 - 2019.06.01 at 11h 38m 49s.xml">
-      <configuration name="FindWordTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 39m 04s.xml">
-      <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 39m 22s.xml">
-      <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 46m 38s.xml">
-      <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FindWordTest_shouldFindOneChar - 2019.06.01 at 11h 47m 39s.xml">
       <configuration name="FindWordTest.shouldFindOneChar" configurationId="JUnit" />
     </history-entry>
@@ -337,6 +301,18 @@
     <history-entry file="SearchingSolutionTest - 2019.06.01 at 15h 43m 13s.xml">
       <configuration name="SearchingSolutionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SerializationTest_serialisedAndDeserialisedObjectShouldEqual - 2019.06.02 at 13h 24m 19s.xml">
+      <configuration name="SerializationTest.serialisedAndDeserialisedObjectShouldEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerializationTest_serialisedAndDeserialisedObjectShouldEqual - 2019.06.02 at 13h 49m 44s.xml">
+      <configuration name="SerializationTest.serialisedAndDeserialisedObjectShouldEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerializationTest_serialisedAndDeserialisedObjectShouldEqual - 2019.06.02 at 14h 03m 11s.xml">
+      <configuration name="SerializationTest.serialisedAndDeserialisedObjectShouldEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerializationTest_serialisedAndDeserialisedObjectShouldEqual - 2019.06.02 at 14h 03m 41s.xml">
+      <configuration name="SerializationTest.serialisedAndDeserialisedObjectShouldEqual" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,14 +325,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21006711" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21006711" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -376,7 +351,7 @@
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
-      <window_info anchor="right" id="PlantUML" order="7" />
+      <window_info anchor="right" id="PlantUML" order="7" weight="0.3295302" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
     </layout>
     <layout-to-restore>
@@ -733,30 +708,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Serialization.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="-716">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
           <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day4/SerializationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Serialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="179">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3423#3424#0" expanded="true" />
+            <element signature="e#3455#3456#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day4/Jsons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
